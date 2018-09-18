@@ -1,6 +1,6 @@
 package chessGame;
 
-public class Piece 
+public abstract class Piece 
 {
 	private int x, y; //x is the x position , and y is the y position
 	private boolean color;
